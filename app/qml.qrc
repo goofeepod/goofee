@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/testlogo.png</file>
+        <file>images/test_startalk.jpg</file>
+        <file>fonts/WorkSans-Black.otf</file>
+        <file>fonts/WorkSans-Bold.otf</file>
+        <file>fonts/WorkSans-ExtraLight.otf</file>
+        <file>fonts/WorkSans-ExtraBold.otf</file>
+        <file>fonts/WorkSans-Light.otf</file>
+        <file>fonts/WorkSans-Medium.otf</file>
+        <file>fonts/WorkSans-Regular.otf</file>
+        <file>fonts/WorkSans-SemiBold.otf</file>
+        <file>fonts/WorkSans-Thin.otf</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>style/GooFee/ItemDelegate.qml</file>
+        <file>style/GooFee/RoundButton.qml</file>
+        <file>style/GooFee/Palette/qmldir</file>
+        <file>style/GooFee/Palette/Palette.qml</file>
+        <file>ui/SidebarMenu.qml</file>
+        <file>ui/FeedGrid.qml</file>
+        <file>ui/FeedGridItem.qml</file>
+        <file>ui/FeedModel.qml</file>
+    </qresource>
+</RCC>
